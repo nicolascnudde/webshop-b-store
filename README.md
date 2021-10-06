@@ -1,9 +1,16 @@
-# Final Project: Webshop
+## Webshop
 
-For the final project of @work2, we will build a webshop where we offer products from different categories.  
-The products we used are bicycles.
+For our final project for @Work-2, we were put in groups of 2 to create a webshop where we would offer products from various categories. We decided to go with an online bicycle store.
 
-## Authors
+I was mostly doing the back-end of this application, where I created the database and wrote a seeder to fill it with both real & fictional data (fakerjs), wrote the models and controllers, created the endpoints for the API, then tested them with Postman and finally documented them with Swagger, and added authentication.
 
-This assignment was made by Tim De Saeger and Nicolas Cnudde  
-Students of 1PGM B
+
+### Built With
+
+* JavaScript
+* NodeJS
+* Express
+* Passport
+* Sequelize (SQLite)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
